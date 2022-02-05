@@ -44,12 +44,57 @@ You can share the texts with your homework partner, so each of you needs to get 
 Course Requirements
 -------------------
 
-| ACTIVITIES | PERCENTAGES |
-| --- | --- |
-| 10 Problem Sets (4% each) | 40 |
-| 35 Active Learning Exercises (must submit 30 total, 0.33% each) | 10 |
-| Midterm Exam (open book, open notes) | 25 |
-| Final Exam (open book, open notes) | 25 
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+ACTIVITIES
+{{< thclose >}}
+{{< thopen >}}
+PERCENTAGES
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+10 Problem Sets (4% each)
+{{< tdclose >}}
+{{< tdopen >}}
+40
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+35 Active Learning Exercises (must submit 30 total, 0.33% each)
+{{< tdclose >}}
+{{< tdopen >}}
+10
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Midterm Exam (open book, open notes)
+{{< tdclose >}}
+{{< tdopen >}}
+25
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Final Exam (open book, open notes)
+{{< tdclose >}}
+{{< tdopen >}}
+25
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 Extension Policy for Problem Sets
 ---------------------------------
