@@ -7,6 +7,7 @@ image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
+parent_uid: 1050932f-064b-9bce-3411-d84278620c42
 resourcetype: Image
 title: 1-264_classroom-1.jpg
 uid: 836d2c24-085e-4f65-4a5b-111fb69cf8a6
