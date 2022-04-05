@@ -1,6 +1,8 @@
 ---
 content_type: page
 layout: instructor_insights
+learning_resource_types: []
+ocw_type: ThisCourseAtMITSection
 title: Instructor Insights
 uid: 1050932f-064b-9bce-3411-d84278620c42
 ---
@@ -36,20 +38,6 @@ Curriculum Information
 ### Offered
 
 *   Every fall semester
-
-{{< anchor "classroom" >}}{{< /anchor >}}
-
-The Classroom
--------------
-
-*   ![Photo of the lecture-style classroom used for the course.]({{< resource_file 836d2c24-085e-4f65-4a5b-111fb69cf8a6 >}})
-    
-    ![](/images/educator/classroom_prev_dim.png) Room 1 of 1 ![](/images/educator/classroom_next_dim.png)
-    
-    ### Lecture
-    
-    This course is taught in a tiered, lecture-style classroom. Students are expected to bring laptops to class.
-    
 
 {{< anchor "studentinfo" >}}{{< /anchor >}}
 

@@ -3,6 +3,11 @@ content_type: resource
 description: This is a special file related to zip.
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/1-264j-database-internet-and-systems-integration-technologies-fall-2013/a6e163334f6ca9b21ee655a3396b88c9_HW6_sol.zip
 file_type: application/zip
+learning_resource_types:
+- Assignments
+ocw_type: OCWFile
+parent_title: Assignments
+parent_type: CourseSection
 parent_uid: a0a3c216-926e-4ae3-63e2-730c50fecd92
 resourcetype: Other
 title: HW6_sol.zip

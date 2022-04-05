@@ -1,5 +1,7 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 title: Lecture Notes & Exercises
 uid: 5fa4a8fe-a152-f202-8c49-92784003b58c
 ---
